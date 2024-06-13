@@ -1,0 +1,17 @@
+Answer 1 : To check if Git is available on your system, you can open a command prompt or terminal and type: "git --version" If Git is installed, this command          will display the version of Git installed on your system. If Git is not installed, it will typically prompt you to install it.
+
+Answer 2 : To initialize a new Git repository, use the command: "git init". This command sets up a new Git repository in your current directory.
+
+Answer 3 : git config --global user.name "Your Name"
+           git config --global user.email "your.email@example.com"
+
+Answer 4 : git add filename
+
+Answer 5 : git reset filename
+
+Answer 6 : git commit -m "Your commit message"
+
+Answer 7 : git push origin branch-name
+
+Answer 8 : clone is used to fetch an entire remote repository to create a local copy.
+           pull is used to update your local repository with the latest changes from a remote repository.
